@@ -5,7 +5,9 @@ A modern minimalist theme that makes the moon a friend for the lonesome to code 
 ## Screenshots
 
 ![Theme Screenshot 1](https://jg-vsc.s3.amazonaws.com/theme-screenshot-1.png)
+
 ![Theme Screenshot 2](https://jg-vsc.s3.amazonaws.com/theme-screenshot-2.png)
+
 ![Theme Screenshot 3](https://jg-vsc.s3.amazonaws.com/theme-screenshot-3.png)
 
 ## Recommended Font
